@@ -1,2 +1,4 @@
-# deploy-page1
-déploiement d'une page html sans _quarto.yml
+* **Dépôt pour formation Quarto: section déploiement d'une page sur plateforme Git**
+* **Déploiement d'une page ou notebook simple sans fichier _quarto.yml**
+
+
