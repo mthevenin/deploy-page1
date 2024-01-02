@@ -1,2 +1,2 @@
 # deploy-page1
-déploiement du page sans _quarto.yml
+déploiement d'une page html sans _quarto.yml
